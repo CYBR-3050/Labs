@@ -1,0 +1,4 @@
+# Application Configuration
+PORT=9090
+ENABLE_AUTH=true
+LOG_LEVEL=INFO

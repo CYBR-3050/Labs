@@ -1,0 +1,4 @@
+# Application Configuration
+PORT=8080
+ENABLE_AUTH=true
+LOG_LEVEL=INFO
