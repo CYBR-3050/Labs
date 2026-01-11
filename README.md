@@ -19,7 +19,7 @@ to your Kali Linux virtual machine.
 2. Navigate to a directory where you store lab work (for example, your home directory).
 3. Clone the repository:
    ```bash
-   git clone https://github.com/CYBR-3050/Labs/Lab1
+   git clone https://github.com/CYBR-3050/Lab1
    ```
 4. Change into the cloned directory:
    ```bash
