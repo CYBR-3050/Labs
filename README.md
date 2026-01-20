@@ -152,9 +152,12 @@ Detecting configuration changes is critical for system integrity.
 ---
 
 ## Step 7: Lab Completion
-
 Ensure you have answered all reflection questions in a single document. 
 This document will be submitted for lab credit.
+
+Read through chapters 1 & 2 of [**Linux Basics for Hackers**](https://learning.oreilly.com/library/view/linux-basics-for/9798341655102/xhtml/ch01.xhtml)
+
+Discuss one new skill you tried beyond the commands detailed in this document. 
 
 ### Final Reflection
 - Which Linux skill from this lab do you think will be most useful in later cybersecurity labs?
