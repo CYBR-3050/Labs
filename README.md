@@ -118,7 +118,7 @@ Security analysts often search logs for indicators of compromise.
 
 1. Navigate to the logs directory:
    ```bash
-   cd materials/logs
+   cd Content/logs
    ```
 2. List the log files.
 3. Search all log files for the word "password":
